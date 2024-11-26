@@ -12,12 +12,6 @@ I'm a Software Engineer based on Bangkok, with passionate in Backend Development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ktm-m&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktm-m&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ktm-m&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ktm-m&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ktm-m&icon=1&color=10)](https://visitcount.itsvg.in)
 
